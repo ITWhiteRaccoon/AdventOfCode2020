@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dev\\Pessoal\\AdventOfCode2020\\AdventOfCode2020.csproj": {}
+    "C:\\Dev\\Pessoal\\Challenges\\AdventOfCode2020\\AdventOfCode2020.csproj": {}
   },
   "projects": {
-    "C:\\Dev\\Pessoal\\AdventOfCode2020\\AdventOfCode2020.csproj": {
+    "C:\\Dev\\Pessoal\\Challenges\\AdventOfCode2020\\AdventOfCode2020.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dev\\Pessoal\\AdventOfCode2020\\AdventOfCode2020.csproj",
+        "projectUniqueName": "C:\\Dev\\Pessoal\\Challenges\\AdventOfCode2020\\AdventOfCode2020.csproj",
         "projectName": "AdventOfCode2020",
-        "projectPath": "C:\\Dev\\Pessoal\\AdventOfCode2020\\AdventOfCode2020.csproj",
+        "projectPath": "C:\\Dev\\Pessoal\\Challenges\\AdventOfCode2020\\AdventOfCode2020.csproj",
         "packagesPath": "C:\\Users\\Eduardo\\.nuget\\packages\\",
-        "outputPath": "C:\\Dev\\Pessoal\\AdventOfCode2020\\obj\\",
+        "outputPath": "C:\\Dev\\Pessoal\\Challenges\\AdventOfCode2020\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

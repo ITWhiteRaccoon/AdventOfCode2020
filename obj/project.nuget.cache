@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6ocICAQekDGPgr3cnDOrGe5Fl0uTvP07i1t0jIBB6PWthdVmZqgYAIrpgEs0tZSrlnaWpwA4DLnBb5b1eb6n/w==",
+  "dgSpecHash": "XP9FYjp6OcGvlfvd2uLVzUwnRBlrdZL0RZZ3WHYQ3XcKYMV2vms7TgT7V2KT+oXxYyglUiVeMN0jBLi8og564g==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Pessoal\\AdventOfCode2020\\AdventOfCode2020.csproj",
+  "projectFilePath": "C:\\Dev\\Pessoal\\Challenges\\AdventOfCode2020\\AdventOfCode2020.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
