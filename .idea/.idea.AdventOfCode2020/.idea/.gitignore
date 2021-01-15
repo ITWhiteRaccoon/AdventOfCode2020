@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.AdventOfCode2020.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../:\Dev\Pessoal\AdventOfCode2020\.idea\.idea.AdventOfCode2020\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
